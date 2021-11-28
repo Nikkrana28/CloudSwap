@@ -7,7 +7,7 @@ export const BodyWrapper = styled(Card)`
   max-width: 436px;
   width: 100%;
   z-index: 1;
-  margin-top: 100px;
+  margin-top: 10px;
 
   :hover{
     box-shadow: 10px 10px 27px 0px rgba(0,0,0,0.25);

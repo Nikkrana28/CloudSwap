@@ -86,6 +86,10 @@ export default function Pool() {
 
   return (
     <Page>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
       <Flex style={{gap:'5px'}}>
         <Button scale='sm' >
           <NavLink to='/'>Swap</NavLink></Button>
